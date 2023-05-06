@@ -1,0 +1,15 @@
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.csproj.AssemblyReference.cache
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.AssemblyInfoInputs.cache
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.AssemblyInfo.cs
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/bin/Debug/net7.0/basic-calcutor
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/bin/Debug/net7.0/basic-calcutor.deps.json
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/bin/Debug/net7.0/basic-calcutor.runtimeconfig.json
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/bin/Debug/net7.0/basic-calcutor.dll
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/bin/Debug/net7.0/basic-calcutor.pdb
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.dll
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/refint/basic-calcutor.dll
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.pdb
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/basic-calcutor.genruntimeconfig.cache
+/Users/0x58/Projects/basic-calcutor/basic-calcutor/obj/Debug/net7.0/ref/basic-calcutor.dll
