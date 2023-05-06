@@ -1,6 +1,6 @@
-# C# Çalışmalarım
+# C# Çalışmalarım *henüz düzenleme aşamasında*
 
-Bu repostoryde, C# programlama dilinde yaptığım çalışmaları paylaşıyorum. Aşağıda projelerin listesi ve kısa açıklamaları yer almaktadır:
+Bu repository'de, C# programlama dilinde yaptığım çalışmaları paylaşıyorum. Aşağıda projelerin listesi ve kısa açıklamaları yer almaktadır():
 
 ## Proje 1: Hesap Makinesi
 Bu proje, basit bir hesap makinesi uygulamasıdır. Kullanıcı tarafından girilen iki sayıya ve seçilen işlem türüne göre hesaplama yapar ve sonucu ekrana yazdırır.
