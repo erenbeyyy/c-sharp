@@ -1,4 +1,5 @@
-# C# Çalışmalarım *henüz düzenleme aşamasında*
+# C# Çalışmalarım 
+### Not:  *henüz düzenleme aşamasında*
 
 Bu repository'de, C# programlama dilinde yaptığım çalışmaları paylaşıyorum. Aşağıda projelerin listesi ve kısa açıklamaları yer almaktadır():
 
