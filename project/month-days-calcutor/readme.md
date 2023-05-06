@@ -21,9 +21,9 @@ Programı çalıştırmak için aşağıdaki adımları takip edin:
 
 Bu uygulama, bir başlangıç seviyesi C# projesi olarak hazırlanmıştır. Geliştirici bilgileri aşağıdaki gibidir:
 
-Geliştirici: Eren Yılmaz
-Sürüm: 1.0.0
-Lisans: MIT Lisansı
+Geliştirici: Eren Yılmaz  
+Sürüm: 1.0.0  
+Lisans: MIT Lisansı  
 
 # Kaynaklar
 ----------
