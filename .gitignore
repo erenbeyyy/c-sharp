@@ -19,5 +19,6 @@ obj/
 packages/
 node_modules/
 
-# mac files
+# mac files & unnecessary folder
 .DS_Store
+**/.vs/
