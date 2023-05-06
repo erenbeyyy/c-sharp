@@ -19,21 +19,21 @@ Oyunun amacı, belirli bir sayı aralığındaki tüm sayıları bu kurallara g�
 
 1'den 15'e kadar olan sayılar için bir Fizz Buzz örneği aşağıdaki gibidir:
 
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
+1  
+2  
+Fizz  
+4  
+Buzz  
+Fizz  
+7  
+8  
+Fizz  
+Buzz  
+11  
+Fizz  
+13  
+14  
+FizzBuzz  
 
 ## Neden Fizz Buzz?
 
