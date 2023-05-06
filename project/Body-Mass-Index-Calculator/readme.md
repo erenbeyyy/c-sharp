@@ -1,3 +1,4 @@
+
 # Beden Kitle Endeksi Hesaplama Programı
 
 Bu program, kullanıcının boy ve kilo değerlerini girdikten sonra Beden Kitle Endeksini hesaplar ve sonucu ekrana yazdırır.
@@ -27,4 +28,14 @@ Beden Kitle Endeksiniz: 22.86
 4. Beden Kitle Endeksi değerine göre ideal kilo aralığı belirlenir ve ekrana yazdırılır.
 
 ## Geliştirici Bilgileri
-Bu program, C# programlama dili kullanılarak geliştirilmiştir. Programın geliştirilmesinde Visual Studio 2019 geliştirme ortamı kullanılmıştır. Program, kullanıcı girdilerinin kontrolü, basit matematiksel hesaplamalar ve koşul ifadeleri kullanılarak oluşturulmuştur.
+Bu program, C# programlama dili kullanılarak geliştirilmiştir. Programın geliştirilmesinde Visual Studio 2019 geliştirme ortamı kullanılmıştır. Program, kullanıcı girdilerinin kontrolü, basit matematiksel hesaplamalar ve koşul ifadeleri kullanılarak oluşturulmuştur. Geliştirici bilgileri aşağıdaki gibidir:
+
+Geliştirici: Eren Yılmaz
+Sürüm: 1.0.0
+Lisans: MIT Lisansı
+
+# Kaynaklar
+
+----------
+
+C# Programlama Dili
