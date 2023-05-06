@@ -6,7 +6,7 @@ Fizz Buzz, programlama dünyasında sıkça kullanılan bir oyunudur. Genellikle
 
 1'den başlayarak belirli bir sayı aralığında ilerleyin. 
 
-- **Ben bu örnekte sayı aralığını 0-100 yaptım.**
+# **Ben bu örnekte sayı aralığını 0-100 yaptım.**
 
 
 Sayı 3'e tam olarak bölünebiliyorsa, sayı yerine "Fizz" yazın.  
