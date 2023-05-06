@@ -1,0 +1,23 @@
+# Visual Studio / Xamarin / Mono
+*.userprefs
+*.usertasks
+*.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# Other files and folders
+*.log
+*.vscode/
+*.sln
+*.bak
+*.nuget/
+packages/
+node_modules/
+
+# mac files
+.DS_Store
