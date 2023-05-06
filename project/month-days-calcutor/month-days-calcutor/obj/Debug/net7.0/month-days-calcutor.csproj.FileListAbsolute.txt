@@ -1,0 +1,15 @@
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/bin/Debug/net7.0/month-days-calcutor
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/bin/Debug/net7.0/month-days-calcutor.deps.json
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/bin/Debug/net7.0/month-days-calcutor.runtimeconfig.json
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/bin/Debug/net7.0/month-days-calcutor.dll
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/bin/Debug/net7.0/month-days-calcutor.pdb
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.csproj.AssemblyReference.cache
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.AssemblyInfoInputs.cache
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.AssemblyInfo.cs
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.dll
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/refint/month-days-calcutor.dll
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.pdb
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/month-days-calcutor.genruntimeconfig.cache
+/Users/0x58/Projects/month-days-calcutor/month-days-calcutor/obj/Debug/net7.0/ref/month-days-calcutor.dll
