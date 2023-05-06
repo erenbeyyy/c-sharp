@@ -1,0 +1,15 @@
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/bin/Debug/net7.0/User-Authentication-System-with-Console-Application
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/bin/Debug/net7.0/User-Authentication-System-with-Console-Application.deps.json
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/bin/Debug/net7.0/User-Authentication-System-with-Console-Application.runtimeconfig.json
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/bin/Debug/net7.0/User-Authentication-System-with-Console-Application.dll
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/bin/Debug/net7.0/User-Authentication-System-with-Console-Application.pdb
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.csproj.AssemblyReference.cache
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.AssemblyInfoInputs.cache
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.AssemblyInfo.cs
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.dll
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/refint/User-Authentication-System-with-Console-Application.dll
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.pdb
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/User-Authentication-System-with-Console-Application.genruntimeconfig.cache
+/Users/0x58/Projects/User-Authentication-System-with-Console-Application/User-Authentication-System-with-Console-Application/obj/Debug/net7.0/ref/User-Authentication-System-with-Console-Application.dll
