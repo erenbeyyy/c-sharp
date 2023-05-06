@@ -15,8 +15,8 @@ Not Ortalaması Hesaplama Uygulaması, C# programlama dili kullanılarak Console
 
 Bu uygulama, bir başlangıç seviyesi C# projesi olarak hazırlanmıştır. Geliştirici bilgileri aşağıdaki gibidir:
 
-Geliştirici: Eren Yılmaz
-Sürüm: 1.0.0
+Geliştirici: Eren Yılmaz  
+Sürüm: 1.0.0  
 *Lisans: MIT Lisansı*
 
 ---
