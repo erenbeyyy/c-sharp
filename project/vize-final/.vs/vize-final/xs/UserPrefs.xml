@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9EB8AAD4-ABC9-4E1D-8A82-8F1C382DB8E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vize-final/Program.cs">
+    <Files>
+      <File FileName="vize-final/Program.cs" Line="66" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vize-final" expanded="True">
+            <Node name="vize-final" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vize-final PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
