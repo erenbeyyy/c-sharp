@@ -1,0 +1,15 @@
+/Users/0x58/Projects/vize-final/vize-final/bin/Debug/net7.0/vize-final
+/Users/0x58/Projects/vize-final/vize-final/bin/Debug/net7.0/vize-final.deps.json
+/Users/0x58/Projects/vize-final/vize-final/bin/Debug/net7.0/vize-final.runtimeconfig.json
+/Users/0x58/Projects/vize-final/vize-final/bin/Debug/net7.0/vize-final.dll
+/Users/0x58/Projects/vize-final/vize-final/bin/Debug/net7.0/vize-final.pdb
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.csproj.AssemblyReference.cache
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.AssemblyInfoInputs.cache
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.AssemblyInfo.cs
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.dll
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/refint/vize-final.dll
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.pdb
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/vize-final.genruntimeconfig.cache
+/Users/0x58/Projects/vize-final/vize-final/obj/Debug/net7.0/ref/vize-final.dll

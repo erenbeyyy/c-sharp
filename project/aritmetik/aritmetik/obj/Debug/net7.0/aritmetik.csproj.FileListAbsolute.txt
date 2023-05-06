@@ -1,0 +1,15 @@
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.csproj.AssemblyReference.cache
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.AssemblyInfoInputs.cache
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.AssemblyInfo.cs
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/aritmetik/aritmetik/bin/Debug/net7.0/aritmetik
+/Users/0x58/Projects/aritmetik/aritmetik/bin/Debug/net7.0/aritmetik.deps.json
+/Users/0x58/Projects/aritmetik/aritmetik/bin/Debug/net7.0/aritmetik.runtimeconfig.json
+/Users/0x58/Projects/aritmetik/aritmetik/bin/Debug/net7.0/aritmetik.dll
+/Users/0x58/Projects/aritmetik/aritmetik/bin/Debug/net7.0/aritmetik.pdb
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.dll
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/refint/aritmetik.dll
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.pdb
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/aritmetik.genruntimeconfig.cache
+/Users/0x58/Projects/aritmetik/aritmetik/obj/Debug/net7.0/ref/aritmetik.dll

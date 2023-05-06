@@ -1,0 +1,15 @@
+/Users/0x58/Projects/text-project/text-project/bin/Debug/net7.0/text-project
+/Users/0x58/Projects/text-project/text-project/bin/Debug/net7.0/text-project.deps.json
+/Users/0x58/Projects/text-project/text-project/bin/Debug/net7.0/text-project.runtimeconfig.json
+/Users/0x58/Projects/text-project/text-project/bin/Debug/net7.0/text-project.dll
+/Users/0x58/Projects/text-project/text-project/bin/Debug/net7.0/text-project.pdb
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.csproj.AssemblyReference.cache
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.AssemblyInfoInputs.cache
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.AssemblyInfo.cs
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.dll
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/refint/text-project.dll
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.pdb
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/text-project.genruntimeconfig.cache
+/Users/0x58/Projects/text-project/text-project/obj/Debug/net7.0/ref/text-project.dll

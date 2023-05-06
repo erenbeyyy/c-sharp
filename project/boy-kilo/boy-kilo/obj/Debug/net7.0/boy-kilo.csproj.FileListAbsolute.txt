@@ -1,0 +1,15 @@
+/Users/0x58/Projects/boy-kilo/boy-kilo/bin/Debug/net7.0/boy-kilo
+/Users/0x58/Projects/boy-kilo/boy-kilo/bin/Debug/net7.0/boy-kilo.deps.json
+/Users/0x58/Projects/boy-kilo/boy-kilo/bin/Debug/net7.0/boy-kilo.runtimeconfig.json
+/Users/0x58/Projects/boy-kilo/boy-kilo/bin/Debug/net7.0/boy-kilo.dll
+/Users/0x58/Projects/boy-kilo/boy-kilo/bin/Debug/net7.0/boy-kilo.pdb
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.csproj.AssemblyReference.cache
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.AssemblyInfoInputs.cache
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.AssemblyInfo.cs
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.dll
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/refint/boy-kilo.dll
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.pdb
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/boy-kilo.genruntimeconfig.cache
+/Users/0x58/Projects/boy-kilo/boy-kilo/obj/Debug/net7.0/ref/boy-kilo.dll
