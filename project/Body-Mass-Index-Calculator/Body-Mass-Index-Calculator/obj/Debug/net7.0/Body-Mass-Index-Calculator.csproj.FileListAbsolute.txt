@@ -1,0 +1,15 @@
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/bin/Debug/net7.0/Body-Mass-Index-Calculator
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/bin/Debug/net7.0/Body-Mass-Index-Calculator.deps.json
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/bin/Debug/net7.0/Body-Mass-Index-Calculator.runtimeconfig.json
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/bin/Debug/net7.0/Body-Mass-Index-Calculator.dll
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/bin/Debug/net7.0/Body-Mass-Index-Calculator.pdb
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.csproj.AssemblyReference.cache
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.AssemblyInfoInputs.cache
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.AssemblyInfo.cs
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.csproj.CoreCompileInputs.cache
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.dll
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/refint/Body-Mass-Index-Calculator.dll
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.pdb
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/Body-Mass-Index-Calculator.genruntimeconfig.cache
+/Users/0x58/Projects/Body-Mass-Index-Calculator/Body-Mass-Index-Calculator/obj/Debug/net7.0/ref/Body-Mass-Index-Calculator.dll
